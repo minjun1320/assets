@@ -1,0 +1,10 @@
+{
+  "name": "Tether USD",
+  "website": "https://bscscan.com",
+  "description": "My custom BEP20 token.",
+  "explorer": "https://bscscan.com",
+  "type": "BEP20",
+  "symbol": "USDT",
+  "decimals": 18,
+  "status": "active"
+}
